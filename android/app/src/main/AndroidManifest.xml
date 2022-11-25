@@ -2,7 +2,7 @@
     package="com.example.merurestaurant">
     <uses-permission android:name="android.permission.INTERNET"/>
    <application
-        android:label="ROSE"
+        android:label="RESTAURANT"
         android:name="${applicationName}"
         android:icon="@mipmap/user">
         <activity
